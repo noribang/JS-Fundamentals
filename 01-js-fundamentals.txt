@@ -1,0 +1,5 @@
++,-,*,/,%               Math operators
+
+0/0 is NaN              (data type Number)
+
+anyNumber/0 is Infinity (data type Number)
