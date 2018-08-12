@@ -1,5 +1,19 @@
+JS General Syntax:
+--------------------
 +,-,*,/,%               Math operators
 
 0/0 is NaN              (data type Number)
 
 anyNumber/0 is Infinity (data type Number)
+
+
+JS ES6:
+--------------------
+Template literals (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+	`some string`
+
+	`some string
+	 another string`
+
+	 `http://api.openweathermap.org/data/2.5/weather?q=${city}&appid=API_KEY_HERE`
+
