@@ -1,3 +1,4 @@
+// AJAX to request data from openweather api.
 $(document).ready(function() {
 	$('#weatherLocation').click(function() {
 		const city = $('#location').val();
